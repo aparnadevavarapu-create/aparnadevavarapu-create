@@ -13,7 +13,7 @@ I'm a Computer Science and Engineering undergraduate passionate about building p
 
 ### 🛠️ Technical Interests
 
-- Programming: C, Python (learning)
+- Programming: C, Python 
 - Core CS: Data Structures, DBMS
 - Development: Git, GitHub
 - Data Analysis: Pandas, NumPy, Matplotlib
